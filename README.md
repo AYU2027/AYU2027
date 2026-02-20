@@ -1,4 +1,8 @@
-# Hi there, I'm AYU2027 👋
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7931A&center=true&vCenter=true&width=500&lines=Software+Engineer;Open+Source+Contributor;C%2B%2B+%7C+DSA+%7C+MERN" alt="Typing Animation" />
+</div>
+
+<h1 align="center">Hi there, I'm AYU2027 👋</h1>
 
 I am a software engineering student graduating in July 2027, specializing in backend infrastructure, data structures, and protocol engineering. I am deeply passionate about building efficient systems and contributing to the open-source community.
 
@@ -18,10 +22,15 @@ I am a software engineering student graduating in July 2027, specializing in bac
   <img src="https://img.shields.io/badge/hadoop-%23E37422.svg?style=for-the-badge&logo=apachehadoop&logoColor=white" alt="Hadoop" />
 </p>
 
-### ♟️ Beyond the Code
-When I am not deep in official documentation or parsing raw hex bytes, you can find me analyzing board positions. I am an active chess player and rigorously preparing for the Combined Defence Services (CDS) examination. 
+### 📊 Consistency & Execution
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AYU2027&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://leetcard.jacoblin.cool/AYU2027?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</div>
 
-Check out my live Chess.com stats below, and feel free to challenge me!
+### ♟️ Beyond the Code
+When I am not deep in official documentation or parsing raw hex bytes, you can find me analyzing board positions. I am an active chess player
 
 <div align="center">
   <a href="https://www.chess.com/member/onewaythere">
