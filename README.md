@@ -32,10 +32,14 @@ I am a software engineering student graduating in July 2027, specializing in bac
 ### ♟️ Beyond the Code
 When I am not deep in official documentation or parsing raw hex bytes, you can find me analyzing board positions. I am an active chess player
 
+Check out my live Chess.com stats below, and feel free to challenge me!
+
 <div align="center">
   <a href="https://www.chess.com/member/onewaythere">
     <img src="https://chess-com-profile-widget.onrender.com/widget?username=onewaythere&theme=github-dark" alt="Chess.com Profile Widget" />
   </a>
+  <br><br>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Chess_animation.gif" alt="Animated Chess Board" width="350" style="border-radius: 8px;" />
 </div>
 
 ---
