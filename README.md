@@ -7,7 +7,7 @@
 I am a software engineering student graduating in July 2027, specializing in backend infrastructure, data structures, and protocol engineering. I am deeply passionate about building efficient systems and contributing to the open-source community.
 
 ### 🚀 Current Focus
-* **Open Source:** Actively contributing to [Zulip](https://zulip.com/) and preparing for Google Summer of Code (GSoC).
+
 * **Engineering:** Deep-diving into Data Structures and Algorithms (DSA) with C++ to prepare for a Google Software Engineering Internship.
 * **Exploration:** Expanding my architectural knowledge across the MERN stack, Hadoop ecosystems, and Natural Language Processing (NLP).
 
@@ -38,8 +38,9 @@ Check out my live Chess.com stats below, and feel free to challenge me!
   <a href="https://www.chess.com/member/onewaythere">
     <img src="https://chess-com-profile-widget.onrender.com/widget?username=onewaythere&theme=github-dark" alt="Chess.com Profile Widget" />
   </a>
+
   <br><br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Chess_animation.gif" alt="Animated Chess Board" width="350" style="border-radius: 8px;" />
+
 </div>
 
 ---
